@@ -1,0 +1,28 @@
+presentationOrder,paper,study,resultString,ES,pReported,N,replicated,note
+1,Johnson et al. 2014b,1,"We did not find statistically significant effects for the overall composite, F(1, 206) = 0.004, p = .95, d = 􏰀0.01, 95% CI [􏰀.28, .26]. ",0.009,0.95,204,0,
+2,Johnson et al. 2014b,2,"The focal comparisons involved tests of whether hand- washing reduced the severity of moral judgments using a series of one-way ANOVAs. We did not find statistically significant effects for the overall composite, F(1, 124) = 0.001, p = .97, d = 0.01, 95% CI [􏰀.34, .36]. ",-0.016,0.97,122,0,
+3,Huang 2014,1,"Consistent with the expectation, the cleanliness condition had lower composite judgment scores than the neutral condition in this subsample, t(105) = −2.11, p = 0.04, d = −0.41. ",0.409,0.04,103,1,
+4,Huang 2014,2,"The cleanliness condition had a lower mean composite rating than the neutral condition, d = −0.29, p = 0.04 in the low response effort condition, ",0.289,0.04,218,1,only in low effort condition
+5,Huang 2014,2a,"The cleanliness condition had a lower mean composite rating than the neutral condition, d = -0.37, p = .006 in the low response effort condition",0.375,0.006,222,1,only in low effort condition
+6,Gamez et al. 2011,1,"Data analyses shows that, in contrast with previous research, participants who recalled an unethical deed didn’t generate more cleansing-related words than those who recalled and ethical deed, F(1,46) = .08, p > .5, η2 = .002, 1-β = .5 ",0.088,,44,0,
+7,Gamez et al. 2011,2,"In contrast with Zhong and Liljenquist (2006) results, we did not find differences in desirability of cleansing products between participants who cope with the unethical and the ethical deed3, F(1,34) = .05, p > .5, η2 = .000, ",-0.024,,32,0,
+8,Gamez et al. 2011,3,"In contrast with Zhong and Liljenquist (2006) results, Spanish participants who recalled an unethical deed were not more likely to take the antiseptic wipe (30.4%) than were those who recalled an ethical deed (13.6%), χ2 = .994, n.s.p and φ = .14.",0.269,,45,0,
+9,Gamez et al. 2011,,,0.521,,,,
+10,Gamez et al. 2011,4,"In contrast with Zhong and Liljenquist (2006) results, data analysis shows that physical cleansing did not significantly reduce the number of volunteers: 85% of those in the non- cleansing condition and 60% of those who cleansed their hands offered help, (χ2 = 1.04, n. s and φ = .2, ",0.173,,28,0,
+11,"Earp et al., 2014",1,"Similarly, there was no sig- nificant difference in how much participants were willing to pay for the consumer products, t(151)=–.28, p=.78, 95% CI [–0.36, 0.27], with comparable means in both the ethical condition (M=2.19) and the unethical condition (M = 2.24). ",-0.005,0.78,149,0,
+12,"Earp et al., 2014",2,"Independent samples t tests revealed no significant differ- ence of condition on desirability of the cleansing items, t(146)=–.79, p=.43, 95% CI [–0.62, 0.27] with compara- ble means in both the ethical (M=4.23) and unethical (M=4.41) conditions. ",0.130,0.43,144,0,
+13,"Earp et al., 2014",3,"Independent samples t tests revealed no significant differ- ence of condition on either desirability, t(260)=–1.83, p=.07, 95% CI [–0.42, 0.02] or how much participants were willing to pay, t(260)=–.29, p=.78, 95% CI [–1.37, 1.02]. ",0.223,0.78,258,0,
+14,"Fayard et al., 2009",1,"In the current study, participants assigned to the unethical condition were no more likely than participants in the ethical condition to choose the antiseptic wipe over the pencil (χ2 = .23, p = .63). ",0.112,0.63,210,0,
+15,"Fayard et al., 2009",2,"For volunteer behavior, 
+analysis of variance showed a nonsignificant main effect for hand wipe F (1, 107) = 1.51, 
+p = .22, ηp2 = .01. ",0.230,0.22,105,0,
+16,"Arbesfeld et al., 2014",1,"A one-tailed independent t-test revealed a significant difference between the two conditions, t(58)=1.84, p=.03. Those primed with cleanliness rated the moral dilemmas as less severe (M=5.96, SD=1.40) than those in the control condition (M=6.57, SD-1.14). The effect size is moderate, Cohenâs d=.48.",0.48,0.03,56,1,undisclosed one-tailed test
+17,"Besman et al, 2013",1,"Those primed with cleanliness rated the behaviors less severely than did those in the control group, t(58)=-1.8, p<.04.",0.467,0.039,56,1,undisclosed one-tailed test
+18,"Johnson et al., 2014a",1,"Unlike the original experiment, the effect of cleanliness prime on the composite DV did not reach statistical significance, F(1, 729) = 0.31, p = .58, d = .04. ",0.04,0.58,727,0,
+19,"Marotta & Bohner, 2013",1,"? Linear trend: Used cleaning cloth vs. examined cleaning cloth vs. used sticky chocolate rub 
+Change in rating difference of chosen over rejected jam from pre- to post-decision ",0.355,0.05,114,1,"recomputed p-value is actually .054. From Lee & Schwarz, 2018. Washing Away Postdecisional Dissonance: A Mini Meta-Analysis 
+"
+20,De Los Reyes 2012,1,"This indicated significant main effects for pen, F(1,46) = 40.59, p < 0.001, and condition, F(1,46) = 6.39, p < 0.05, as well as a significant Pen X Condition interaction, F(1,46) = 4.14, p < 0.05. ",0.578,0.048,44,1,
+21,"Camerer et al., 2018",1,Stage 1,-0.068,0.455,123,0,
+22,"Camerer et al., 2018",1,Stage 2,-0.046,0.436,286,0,
+23,"Moscatiello & Nagel, 2014",Poster,,,,,1,not available
